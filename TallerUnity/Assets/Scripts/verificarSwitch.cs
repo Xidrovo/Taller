@@ -3,7 +3,7 @@ using System.Collections;
 
 public class verificarSwitch : MonoBehaviour {
 
-    public switchProperty switchActivator;
+    public switchProperty switchActivator = null;
     public GameObject piso;
     // Use this for initialization
     void Start () {

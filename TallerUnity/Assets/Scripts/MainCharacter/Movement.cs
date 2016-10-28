@@ -58,7 +58,6 @@ public class Movement : MonoBehaviour {
 	{
 		if (Input.GetKey (KeyCode.RightArrow)) 
 		{
-			//transform.Translate(speed * Time.deltaTime,0,0);
 			transform.Translate(Vector3.right * -speed * Time.deltaTime);
             this.transform.rotation = Quaternion.Euler(0, 180, 0);
             anim.SetBool("run", true);
