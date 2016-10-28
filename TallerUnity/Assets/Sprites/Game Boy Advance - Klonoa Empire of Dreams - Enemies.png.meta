@@ -1,0 +1,2075 @@
+fileFormatVersion: 2
+guid: 1e0bb36f4295d054b810d4bdd1adb1c8
+timeCreated: 1477682180
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Klonoa Empire of Dreams - Enemies_0
+    21300002: Game Boy Advance - Klonoa Empire of Dreams - Enemies_1
+    21300004: Game Boy Advance - Klonoa Empire of Dreams - Enemies_2
+    21300006: Game Boy Advance - Klonoa Empire of Dreams - Enemies_3
+    21300008: Game Boy Advance - Klonoa Empire of Dreams - Enemies_4
+    21300010: Game Boy Advance - Klonoa Empire of Dreams - Enemies_5
+    21300012: Game Boy Advance - Klonoa Empire of Dreams - Enemies_6
+    21300014: Game Boy Advance - Klonoa Empire of Dreams - Enemies_7
+    21300016: Game Boy Advance - Klonoa Empire of Dreams - Enemies_8
+    21300018: Game Boy Advance - Klonoa Empire of Dreams - Enemies_9
+    21300020: Game Boy Advance - Klonoa Empire of Dreams - Enemies_10
+    21300022: Game Boy Advance - Klonoa Empire of Dreams - Enemies_11
+    21300024: Game Boy Advance - Klonoa Empire of Dreams - Enemies_12
+    21300026: Game Boy Advance - Klonoa Empire of Dreams - Enemies_13
+    21300028: Game Boy Advance - Klonoa Empire of Dreams - Enemies_14
+    21300030: Game Boy Advance - Klonoa Empire of Dreams - Enemies_15
+    21300032: Game Boy Advance - Klonoa Empire of Dreams - Enemies_16
+    21300034: Game Boy Advance - Klonoa Empire of Dreams - Enemies_17
+    21300036: Game Boy Advance - Klonoa Empire of Dreams - Enemies_18
+    21300038: Game Boy Advance - Klonoa Empire of Dreams - Enemies_19
+    21300040: Game Boy Advance - Klonoa Empire of Dreams - Enemies_20
+    21300042: Game Boy Advance - Klonoa Empire of Dreams - Enemies_21
+    21300044: Game Boy Advance - Klonoa Empire of Dreams - Enemies_22
+    21300046: Game Boy Advance - Klonoa Empire of Dreams - Enemies_23
+    21300048: Game Boy Advance - Klonoa Empire of Dreams - Enemies_24
+    21300050: Game Boy Advance - Klonoa Empire of Dreams - Enemies_25
+    21300052: Game Boy Advance - Klonoa Empire of Dreams - Enemies_26
+    21300054: Game Boy Advance - Klonoa Empire of Dreams - Enemies_27
+    21300056: Game Boy Advance - Klonoa Empire of Dreams - Enemies_28
+    21300058: Game Boy Advance - Klonoa Empire of Dreams - Enemies_29
+    21300060: Game Boy Advance - Klonoa Empire of Dreams - Enemies_30
+    21300062: Game Boy Advance - Klonoa Empire of Dreams - Enemies_31
+    21300064: Game Boy Advance - Klonoa Empire of Dreams - Enemies_32
+    21300066: Game Boy Advance - Klonoa Empire of Dreams - Enemies_33
+    21300068: Game Boy Advance - Klonoa Empire of Dreams - Enemies_34
+    21300070: Game Boy Advance - Klonoa Empire of Dreams - Enemies_35
+    21300072: Game Boy Advance - Klonoa Empire of Dreams - Enemies_36
+    21300074: Game Boy Advance - Klonoa Empire of Dreams - Enemies_37
+    21300076: Game Boy Advance - Klonoa Empire of Dreams - Enemies_38
+    21300078: Game Boy Advance - Klonoa Empire of Dreams - Enemies_39
+    21300080: Game Boy Advance - Klonoa Empire of Dreams - Enemies_40
+    21300082: Game Boy Advance - Klonoa Empire of Dreams - Enemies_41
+    21300084: Game Boy Advance - Klonoa Empire of Dreams - Enemies_42
+    21300086: Game Boy Advance - Klonoa Empire of Dreams - Enemies_43
+    21300088: Game Boy Advance - Klonoa Empire of Dreams - Enemies_44
+    21300090: Game Boy Advance - Klonoa Empire of Dreams - Enemies_45
+    21300092: Game Boy Advance - Klonoa Empire of Dreams - Enemies_46
+    21300094: Game Boy Advance - Klonoa Empire of Dreams - Enemies_47
+    21300096: Game Boy Advance - Klonoa Empire of Dreams - Enemies_48
+    21300098: Game Boy Advance - Klonoa Empire of Dreams - Enemies_49
+    21300100: Game Boy Advance - Klonoa Empire of Dreams - Enemies_50
+    21300102: Game Boy Advance - Klonoa Empire of Dreams - Enemies_51
+    21300104: Game Boy Advance - Klonoa Empire of Dreams - Enemies_52
+    21300106: Game Boy Advance - Klonoa Empire of Dreams - Enemies_53
+    21300108: Game Boy Advance - Klonoa Empire of Dreams - Enemies_54
+    21300110: Game Boy Advance - Klonoa Empire of Dreams - Enemies_55
+    21300112: Game Boy Advance - Klonoa Empire of Dreams - Enemies_56
+    21300114: Game Boy Advance - Klonoa Empire of Dreams - Enemies_57
+    21300116: Game Boy Advance - Klonoa Empire of Dreams - Enemies_58
+    21300118: Game Boy Advance - Klonoa Empire of Dreams - Enemies_59
+    21300120: Game Boy Advance - Klonoa Empire of Dreams - Enemies_60
+    21300122: Game Boy Advance - Klonoa Empire of Dreams - Enemies_61
+    21300124: Game Boy Advance - Klonoa Empire of Dreams - Enemies_62
+    21300126: Game Boy Advance - Klonoa Empire of Dreams - Enemies_63
+    21300128: Game Boy Advance - Klonoa Empire of Dreams - Enemies_64
+    21300130: Game Boy Advance - Klonoa Empire of Dreams - Enemies_65
+    21300132: Game Boy Advance - Klonoa Empire of Dreams - Enemies_66
+    21300134: Game Boy Advance - Klonoa Empire of Dreams - Enemies_67
+    21300136: Game Boy Advance - Klonoa Empire of Dreams - Enemies_68
+    21300138: Game Boy Advance - Klonoa Empire of Dreams - Enemies_69
+    21300140: Game Boy Advance - Klonoa Empire of Dreams - Enemies_70
+    21300142: Game Boy Advance - Klonoa Empire of Dreams - Enemies_71
+    21300144: Game Boy Advance - Klonoa Empire of Dreams - Enemies_72
+    21300146: Game Boy Advance - Klonoa Empire of Dreams - Enemies_73
+    21300148: Game Boy Advance - Klonoa Empire of Dreams - Enemies_74
+    21300150: Game Boy Advance - Klonoa Empire of Dreams - Enemies_75
+    21300152: Game Boy Advance - Klonoa Empire of Dreams - Enemies_76
+    21300154: Game Boy Advance - Klonoa Empire of Dreams - Enemies_77
+    21300156: Game Boy Advance - Klonoa Empire of Dreams - Enemies_78
+    21300158: Game Boy Advance - Klonoa Empire of Dreams - Enemies_79
+    21300160: Game Boy Advance - Klonoa Empire of Dreams - Enemies_80
+    21300162: Game Boy Advance - Klonoa Empire of Dreams - Enemies_81
+    21300164: Game Boy Advance - Klonoa Empire of Dreams - Enemies_82
+    21300166: Game Boy Advance - Klonoa Empire of Dreams - Enemies_83
+    21300168: Game Boy Advance - Klonoa Empire of Dreams - Enemies_84
+    21300170: Game Boy Advance - Klonoa Empire of Dreams - Enemies_85
+    21300172: Game Boy Advance - Klonoa Empire of Dreams - Enemies_86
+    21300174: Game Boy Advance - Klonoa Empire of Dreams - Enemies_87
+    21300176: Game Boy Advance - Klonoa Empire of Dreams - Enemies_88
+    21300178: Game Boy Advance - Klonoa Empire of Dreams - Enemies_89
+    21300180: Game Boy Advance - Klonoa Empire of Dreams - Enemies_90
+    21300182: Game Boy Advance - Klonoa Empire of Dreams - Enemies_91
+    21300184: Game Boy Advance - Klonoa Empire of Dreams - Enemies_92
+    21300186: Game Boy Advance - Klonoa Empire of Dreams - Enemies_93
+    21300188: Game Boy Advance - Klonoa Empire of Dreams - Enemies_94
+    21300190: Game Boy Advance - Klonoa Empire of Dreams - Enemies_95
+    21300192: Game Boy Advance - Klonoa Empire of Dreams - Enemies_96
+    21300194: Game Boy Advance - Klonoa Empire of Dreams - Enemies_97
+    21300196: Game Boy Advance - Klonoa Empire of Dreams - Enemies_98
+    21300198: Game Boy Advance - Klonoa Empire of Dreams - Enemies_99
+    21300200: Game Boy Advance - Klonoa Empire of Dreams - Enemies_100
+    21300202: Game Boy Advance - Klonoa Empire of Dreams - Enemies_101
+    21300204: Game Boy Advance - Klonoa Empire of Dreams - Enemies_102
+    21300206: Game Boy Advance - Klonoa Empire of Dreams - Enemies_103
+    21300208: Game Boy Advance - Klonoa Empire of Dreams - Enemies_104
+    21300210: Game Boy Advance - Klonoa Empire of Dreams - Enemies_105
+    21300212: Game Boy Advance - Klonoa Empire of Dreams - Enemies_106
+    21300214: Game Boy Advance - Klonoa Empire of Dreams - Enemies_107
+    21300216: Game Boy Advance - Klonoa Empire of Dreams - Enemies_108
+    21300218: Game Boy Advance - Klonoa Empire of Dreams - Enemies_109
+    21300220: Game Boy Advance - Klonoa Empire of Dreams - Enemies_110
+    21300222: Game Boy Advance - Klonoa Empire of Dreams - Enemies_111
+    21300224: Game Boy Advance - Klonoa Empire of Dreams - Enemies_112
+    21300226: Game Boy Advance - Klonoa Empire of Dreams - Enemies_113
+    21300228: Game Boy Advance - Klonoa Empire of Dreams - Enemies_114
+    21300230: Game Boy Advance - Klonoa Empire of Dreams - Enemies_115
+    21300232: Game Boy Advance - Klonoa Empire of Dreams - Enemies_116
+    21300234: Game Boy Advance - Klonoa Empire of Dreams - Enemies_117
+    21300236: Game Boy Advance - Klonoa Empire of Dreams - Enemies_118
+    21300238: Game Boy Advance - Klonoa Empire of Dreams - Enemies_119
+    21300240: Game Boy Advance - Klonoa Empire of Dreams - Enemies_120
+    21300242: Game Boy Advance - Klonoa Empire of Dreams - Enemies_121
+    21300244: Game Boy Advance - Klonoa Empire of Dreams - Enemies_122
+    21300246: Game Boy Advance - Klonoa Empire of Dreams - Enemies_123
+    21300248: Game Boy Advance - Klonoa Empire of Dreams - Enemies_124
+    21300250: Game Boy Advance - Klonoa Empire of Dreams - Enemies_125
+    21300252: Game Boy Advance - Klonoa Empire of Dreams - Enemies_126
+    21300254: Game Boy Advance - Klonoa Empire of Dreams - Enemies_127
+    21300256: Game Boy Advance - Klonoa Empire of Dreams - Enemies_128
+    21300258: Game Boy Advance - Klonoa Empire of Dreams - Enemies_129
+    21300260: Game Boy Advance - Klonoa Empire of Dreams - Enemies_130
+    21300262: Game Boy Advance - Klonoa Empire of Dreams - Enemies_131
+    21300264: Game Boy Advance - Klonoa Empire of Dreams - Enemies_132
+    21300266: Game Boy Advance - Klonoa Empire of Dreams - Enemies_133
+    21300268: Game Boy Advance - Klonoa Empire of Dreams - Enemies_134
+    21300270: Game Boy Advance - Klonoa Empire of Dreams - Enemies_135
+    21300272: Game Boy Advance - Klonoa Empire of Dreams - Enemies_136
+    21300274: Game Boy Advance - Klonoa Empire of Dreams - Enemies_137
+    21300276: Game Boy Advance - Klonoa Empire of Dreams - Enemies_138
+    21300278: Game Boy Advance - Klonoa Empire of Dreams - Enemies_139
+    21300280: Game Boy Advance - Klonoa Empire of Dreams - Enemies_140
+    21300282: Game Boy Advance - Klonoa Empire of Dreams - Enemies_141
+    21300284: Game Boy Advance - Klonoa Empire of Dreams - Enemies_142
+    21300286: Game Boy Advance - Klonoa Empire of Dreams - Enemies_143
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 443
+        width: 25
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 443
+        width: 25
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 443
+        width: 25
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 443
+        width: 22
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 443
+        width: 25
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 443
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 441
+        width: 8
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 458
+        width: 4
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 452
+        width: 9
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 441
+        width: 24
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 440
+        width: 32
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 441
+        width: 32
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 453
+        width: 6
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 444
+        width: 9
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 442
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 404
+        width: 30
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 403
+        width: 29
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 404
+        width: 27
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 403
+        width: 29
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 403
+        width: 28
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 403
+        width: 29
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 403
+        width: 27
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 402
+        width: 29
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 402
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 369
+        width: 24
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 369
+        width: 25
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 369
+        width: 23
+        height: 27
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 373
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 371
+        width: 8
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 388
+        width: 4
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 382
+        width: 9
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 383
+        width: 6
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 374
+        width: 9
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 372
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 332
+        width: 32
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 332
+        width: 27
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 332
+        width: 26
+        height: 27
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 332
+        width: 26
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 334
+        width: 30
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 332
+        width: 26
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 332
+        width: 26
+        height: 27
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 332
+        width: 27
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 302
+        width: 25
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 302
+        width: 25
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 302
+        width: 25
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 302
+        width: 25
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 302
+        width: 25
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 302
+        width: 25
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 302
+        width: 25
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 301
+        width: 25
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 289
+        width: 11
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 275
+        width: 22
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 276
+        width: 20
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 247
+        width: 22
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 247
+        width: 22
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 247
+        width: 24
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 214
+        width: 26
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 215
+        width: 26
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 215
+        width: 28
+        height: 29
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 215
+        width: 26
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 215
+        width: 26
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 213
+        width: 26
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 213
+        width: 28
+        height: 29
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 212
+        width: 26
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 23
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 185
+        width: 24
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 186
+        width: 24
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 150
+        width: 30
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 150
+        width: 28
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 150
+        width: 28
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 123
+        width: 22
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 124
+        width: 23
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 124
+        width: 22
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 126
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 125
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 125
+        width: 14
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 86
+        width: 32
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 86
+        width: 29
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 86
+        width: 27
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 85
+        width: 29
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 83
+        width: 30
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 84
+        width: 29
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 85
+        width: 27
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 85
+        width: 29
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 35
+        width: 28
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 45
+        width: 6
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 45
+        width: 8
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 45
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 45
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 45
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 45
+        width: 5
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 45
+        width: 7
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 41
+        width: 5
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 45
+        width: 7
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 45
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 45
+        width: 9
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 45
+        width: 6
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 45
+        width: 7
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 45
+        width: 4
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 45
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 45
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 45
+        width: 7
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 45
+        width: 4
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 26
+        width: 6
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 26
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 26
+        width: 7
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 22
+        width: 6
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 24
+        width: 7
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 26
+        width: 6
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 22
+        width: 8
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 22
+        width: 5
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 26
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 26
+        width: 6
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 26
+        width: 6
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 22
+        width: 6
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 26
+        width: 7
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 26
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 26
+        width: 4
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 26
+        width: 5
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 26
+        width: 7
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 26
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 22
+        width: 5
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 26
+        width: 9
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 8
+        width: 5
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 8
+        width: 6
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4
+        width: 6
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 8
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 8
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 8
+        width: 4
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 4
+        width: 5
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 8
+        width: 8
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 8
+        width: 4
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 8
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 8
+        width: 7
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 8
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 8
+        width: 7
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 8
+        width: 4
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 8
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 6
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Klonoa Empire of Dreams - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 8
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

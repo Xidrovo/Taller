@@ -69,11 +69,14 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PuntosDeVida.cs" />
+    <Compile Include="Assets\CaminaDer.cs" />
+    <Compile Include="Assets\CaminaIz.cs" />
+    <Compile Include="Assets\EbolitaController.cs" />
     <Compile Include="Assets\Scripts\MainCharacter\Movement.cs" />
     <Compile Include="Assets\Scripts\MainCharacter\activeSwitch.cs" />
     <Compile Include="Assets\Scripts\MainCharacter\properties.cs" />
     <Compile Include="Assets\Scripts\MainCharacter\salto.cs" />
+    <Compile Include="Assets\Scripts\PuntosDeVida.cs" />
     <Compile Include="Assets\Scripts\activateFloor.cs" />
     <Compile Include="Assets\Scripts\camera.cs" />
     <Compile Include="Assets\Scripts\killzone.cs" />

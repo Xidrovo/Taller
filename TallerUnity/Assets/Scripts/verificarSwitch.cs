@@ -12,7 +12,7 @@ public class verificarSwitch : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (switchActivator.getActivate())
+        //if (switchActivator.getActivate())
         {
             piso.gameObject.SetActive(true);
         }
