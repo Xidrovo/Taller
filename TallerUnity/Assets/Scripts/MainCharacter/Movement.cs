@@ -9,7 +9,14 @@ public class Movement : MonoBehaviour {
 	public Rigidbody2D cuerpo;
     private bool canClimb;
     private float defaultGravity;
+    private Animator anim;
     // Use this for initialization
+
+    void Start()
+    {
+        defaultGravity = cuerpo.gravityScale;
+        anim = this.GetComponent<Animator>();
+    }
 
     void OnTriggerStay2D(Collider2D trigg)
     {
@@ -27,10 +34,6 @@ public class Movement : MonoBehaviour {
             cuerpo.gravityScale = defaultGravity;
         }
     }
-
-    void Start () {
-        defaultGravity = cuerpo.gravityScale;
-	}
 
     // Update is called once per frame
     void FixedUpdate () {
@@ -58,13 +61,15 @@ public class Movement : MonoBehaviour {
 			//transform.Translate(speed * Time.deltaTime,0,0);
 			transform.Translate(Vector3.right * -speed * Time.deltaTime);
             this.transform.rotation = Quaternion.Euler(0, 180, 0);
-        }	
-
-		if (Input.GetKey (KeyCode.LeftArrow)) 
-		{
-			transform.Translate(Vector3.left * speed * Time.deltaTime);
+            anim.SetBool("run", true);
+        }else if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            transform.Translate(Vector3.left * speed * Time.deltaTime);
             this.transform.rotation = Quaternion.Euler(0, 0, 0);
-        }	
+            anim.SetBool("run", true);
+        }else{
+            anim.SetBool("run", false);
+        }
 	}
 
 	private void jump()

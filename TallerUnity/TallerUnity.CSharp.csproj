@@ -70,10 +70,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\MainCharacter\Movement.cs" />
+    <Compile Include="Assets\Scripts\MainCharacter\activeSwitch.cs" />
     <Compile Include="Assets\Scripts\MainCharacter\properties.cs" />
     <Compile Include="Assets\Scripts\MainCharacter\salto.cs" />
+    <Compile Include="Assets\Scripts\activateFloor.cs" />
     <Compile Include="Assets\Scripts\camera.cs" />
     <Compile Include="Assets\Scripts\pause.cs" />
+    <Compile Include="Assets\Scripts\switchProperty.cs" />
+    <Compile Include="Assets\Scripts\verificarSwitch.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
