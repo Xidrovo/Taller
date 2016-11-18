@@ -5,14 +5,18 @@ public class CaminaDer : MonoBehaviour {
     private float inicio = 0;
     // Use this for initialization
     void Start () {
-	}
+        if (!EbolitaController.MoveIz)
+        {
+            this.gameObject.GetComponent<Collider2D>().enabled = false;
+        }
+    }
 	
 	// Update is called once per frame
-	void Update () {
-        Debug.Log(Time.time - inicio);
-        if (Time.time - inicio == 1 && inicio!=0)
+	void FixedUpdate() {
+        if (EbolitaController.MoveIz)
         {
-            EbolitaController.MoveDer = true;
+            inicio = 0;
+            this.gameObject.GetComponent<Collider2D>().enabled = true;
         }
     }
 
@@ -22,12 +26,9 @@ public class CaminaDer : MonoBehaviour {
         {
             inicio = Time.time;
             EbolitaController.MoveIz = false;
+            EbolitaController.MoveDer = true;
             this.gameObject.GetComponent<Collider2D>().enabled = false;
         }
     }
-
-    void OnTriggerExit2D(Collider2D other)
-    {
-        this.gameObject.GetComponent<Collider2D>().enabled = true;
-    }
+    
 }

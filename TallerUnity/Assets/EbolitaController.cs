@@ -4,41 +4,41 @@ using System.Collections;
 
 public class EbolitaController : MonoBehaviour {
 
-    public static bool MoveDer = true, MoveIz = false;
-    public float speedBolita =0.1f;
+    public static bool MoveDer = true, MoveIz = false, idle=false;
+    float speedBolita =0.5f;
     private Animator anim;
-    public GameObject escalera;
     // Use this for initialization
     void Start () {
         anim = this.GetComponent<Animator>();
         anim.SetBool("Move", true);
-        Physics.IgnoreCollision(escalera.GetComponent<Collider>(), this.gameObject.GetComponent<Collider>());
     }
 	
 	// Update is called once per frame
 	void FixedUpdate() {
         Movimiento();
-
+        //Physics2D.IgnoreLayerCollision(10,8);
     }
 
     public void Movimiento()
     {
-        if (MoveDer)
+        if(idle)
         {
-            this.transform.rotation = Quaternion.Euler(0, 0, 0);
-            anim.SetBool("Move", true);
-            transform.Translate(Vector2.left * speedBolita * Time.deltaTime);
+            anim.SetBool("Move", false);
+            return;
         }
-        else if (MoveIz)
+        if (MoveIz)
         {
-            this.transform.rotation = Quaternion.Euler(0, 180, 0);
+            transform.rotation = Quaternion.Euler(0, 180, 0);
+            anim.SetBool("Move", true);
+            transform.Translate(Vector2.left * -speedBolita * Time.deltaTime);
+        }
+        else if (MoveDer)
+        {
+            transform.rotation = Quaternion.Euler(0, 0, 0);
             anim.SetBool("Move", true);
             transform.Translate(Vector2.right * speedBolita * Time.deltaTime);
         }
-        else
-        {
-            anim.SetBool("Move", false);
-        }
+        
     }
 
 }
